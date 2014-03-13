@@ -1,0 +1,48 @@
+body{
+	background-color:#EFF8FB
+}
+
+h1{
+	text-align: center;
+
+}
+
+div {
+	display:table-cell;
+	background-color: #CEECF5;
+	border: 1px solid black;
+    border-collapse:collapse;
+}
+
+div.tr {
+	display:table-row;
+	background-color: #CEECF5;
+	border: 1px solid black;
+    border-collapse:collapse;
+}
+
+div.r1
+{
+	color:white;
+	border: 1px solid black;
+    border-collapse:collapse;
+	background-color:#0489B1;
+}
+
+div.r6
+{
+	border-top: none;
+	border-bottom: none;
+}
+
+div.r5
+{
+	border-bottom: none;
+}
+
+div.r6
+{
+	border-top: none;
+	border-bottom: none;
+}
+
